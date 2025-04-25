@@ -1,2 +1,15 @@
+# Unix
+.*
+
+# Git
+!.gitignore
+!.ignore
+
+
+# Rust
 target
 Cargo.lock
+
+
+# Org
+TODOs.org
